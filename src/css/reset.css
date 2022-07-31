@@ -1,0 +1,9 @@
+*{
+    margin: 0; /*usa para tirar toda margem padrao do navegador */
+    padding: 0; /*usa para o espaco interno*/
+    box-sizing: border-box; /**/
+}
+
+ul {
+    list-style: none; /*retira o estilo da lista*/ /* NONE= "nenhum, nada"*/
+}
